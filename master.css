@@ -1,0 +1,21 @@
+img{
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin:  50px auto;
+    border: 1px solid black;
+    padding: 5px;
+    
+
+}
+p{
+    width: 200px;
+    margin: auto;
+    color: forestgreen;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background-color: black;
+}
